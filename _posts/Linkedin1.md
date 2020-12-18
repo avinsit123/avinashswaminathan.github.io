@@ -7,6 +7,7 @@ tags:
   - Coronavirus
   - Pandemic
 ---
+<img title="Coronavirus pandemic has caused educators to shift to virtual mode of teaching" src="/images/1594554508273.jpg">
 
 Just like every other demographic, the student community has been affected in several ways due to the coronavirus pandemic. Even though young people are least vulnerable to the virus, the fallout from the pandemic including recession, school closures have brought permanent changes to certain aspects of everyday student life. Some of these aspects include
 
