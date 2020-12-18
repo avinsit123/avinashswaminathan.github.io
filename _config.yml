@@ -6,14 +6,13 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Avinash Swaminthan"
+title                    : "Avinash Swaminathan"
 title_separator          : "-"
 name                     : &name "Avinash Swaminathan"
 description              : &description "personal description"
 url                      : https://avinsit123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "avinsit123/avinsit123.github.io
+repository               : "avinsit123/avinsit123.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 51
