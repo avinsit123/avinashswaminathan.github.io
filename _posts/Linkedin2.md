@@ -22,7 +22,6 @@ tags:
   <li> <b> Sustainable Development : </b> - UN report warns that water shortages could affect 5 billion people at the end of 2050. These natural resource shortages could lead to conflicts unless a sustainable solution is reached. It is very important that nations work on achieving the 17 SDGs proposed by the UN which include Quality Education, Gender Equality. Sustainable Development in the form of conservation of natural resources and taking care of the environment is the utmost need of the hour in order to ensure a prosperous future in 2050.  </li>
   <li> <b> Global Warming : </b> - Current estimates predict that average global temperatures are  expected to rise by 2˚ C if the present negligence towards the environment continues. This could lead to flooding of low-lying areas, long heatwaves and dire climatic consequences. It is important to shift to a renewable energy-based economy, cut down carbon emissions and make energy consumption more efficient. The good news is that several countries and corporations have recognised this as a major crisis and are working towards mitigating it. </li>
 
-  <li> </li>
 
 </ol>
 
