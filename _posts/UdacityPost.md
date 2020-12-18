@@ -8,8 +8,6 @@ tags:
   - Pytorch Scholarship Challenge
 ---
 
-## Introduction
-
 Udacity sponsored a Challenge Program to select students for its Deep Learning with Pytorch Nanodegree.The following article enumerates my experience during the Challenge Program and tips for future students who might qualify for this challenge. The Challenge was announced at the first ever Pytorch Developer Conference by Udacity in collaboration with the Facebook.The aim was to select 10,000 students initially offer them an initial course material along with community support on Slack.The top 300 students would then be selected for the Deep Learning Nanodegree sponsored by Facebook.The Selection process involved filling out a standard questionnaire on the basis of which a global pool of 10k students were selected.
 
 
