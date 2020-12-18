@@ -1,7 +1,7 @@
 ---
 title: 'My Udacity Pytorch Scholarship Challenge Experience'
 date: 2020-07-1
-permalink: /posts/UdacityPost/
+permalink: /posts/2012/08/blog-post-1/
 tags:
   - Udacity Scholarship
   - Pytorch
