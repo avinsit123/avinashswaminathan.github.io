@@ -1,7 +1,7 @@
 ---
 title: 'My Udacity Pytorch Scholarship Challenge Experience'
 date: 2020-07-1
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/UdacityPost/
 tags:
   - Udacity Scholarship
   - Pytorch
@@ -91,4 +91,3 @@ As the results have not yet been declared, I cannot give a definite outline of w
 </ol>
 
 Finally I would like to thank the Udacity Scholarships team for giving me the opportunity to be a part of such an amazing community and to all my fellow challenge mates who made the last 2 months quite memorable for me.
-
