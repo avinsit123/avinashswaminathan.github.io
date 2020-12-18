@@ -7,9 +7,10 @@ tags:
   - Future
   - Pandemic
 ---
-<img title="The world in 2050" src="/images/1595672240848.jpg">
 
  In 1990, when my father was turning 20 he had several aspirations about how life would change after 30 years. He envisioned a better quality of life for his family, technology-oriented world, better purchasing parity and growth-oriented employment opportunities. Needless to say, many of his aspirations and wishes turned out to be true. Similarly in my 20’s, I cannot help wonder how aspects of life would be different in 2050
+
+<img title="The world in 2050" src="/images/1595672240848.jpg">
 
 <ol>
   <li> <b> Interplanetary Travel : </b> - With global warming and several imminent natural threats to human civilisation, our existence on earth may be limited. Thus, it might be a good idea for humans to consider becoming interplanetary species. While interplanetary travel is possible in 2020 it is expensive and thus impossible for the general population to access it. However, the recent advent of private companies in the space race can change this. Companies like Elon Musk’s SpaceX have been able to design reusable rockets and engines which have significantly cut space travel costs. Furthermore, the entry of many other private players like Bezos’ Blue Origin is expected to drive up competition in the field and further drive down costs which might just make interplanetary space travel accessible for everyone by 2050. This will further lead to a separate branch of space tourism, adventure and settlement.  </li>
