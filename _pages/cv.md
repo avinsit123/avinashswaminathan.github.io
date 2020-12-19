@@ -28,15 +28,15 @@ Work experience
 
 Publications
 ======
-  <ul>{% for post in site.publications % </b> 
-    {% include archive-single-cv.html % </b> 
-  {% endfor % </b> </ul>
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks % </b> 
-    {% include archive-single-talk-cv.html % </b> 
-  {% endfor % </b> </ul>
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul>
   
   
 Positions of Responsibility
