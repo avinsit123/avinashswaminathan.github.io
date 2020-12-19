@@ -11,21 +11,19 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+* Bachelors of Engineering in Information Technology at Netaji Subhas Institute of Technology, Delhi(CGPA - 9.21)
 * M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May 2019 - Present : Undergraduate Research Intern, Multimodal Digital Media Analysis Lab, IIITD
+  * Advised by <i> Dr.Debanjan Mahata </i> , <b> Research Scientist at Bloomberg, New York </b> and <i> Prof. Rajiv Ratn Shah </i> , \\ <b> Assistant Professor at IIITD <b>
+  * Internship work includes application of GANs for keyphrase generation, Natural Language Inference tasks for datasets in low-resource languages and code-switched conversation summarisation
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2020 - July 2020 : Software Engineering Intern, Microsoft India Development Center
+  * Interned at the <b> Microsoft Dynamics 365 </b> Common Data Services team
+  * Developed <b> data service features for time of creation </b> in the Dynamics 365 CRM Tool
+  * <b> UI, production tested code changes and deployed </b> features to production
   
 Skills
 ======
@@ -54,6 +52,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Positions of Responsibility
 ======
-* Currently signed in to 43 different slack teams
+* Vice President, Nakshatra - The Astronomy and Math Club of NSIT
+  * <b> Managed and coordinated day-to-day activities </b> of society like publicity of events, weekly meetings, etc.
+  * <b> Planned and organized ML competitions </b> for Ephemeris: society's annual fest
+  * <b> Conducted Machine and Deep Learning SIGs </b> for junior students
