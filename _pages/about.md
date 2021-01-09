@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,42 +8,41 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Hi, I am Avinash Swaminathan. I am currently a final-year student at Netaji Subhas Institute of Technology, Delhi pursuing Bachelors of Engineering in Information Technology. Welcome to my world !!
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Academic Coursework and Achievements
+===
+My coursework includes Computer Programming in C++, Data Structure and Algorithms, Design and Analysis of Algorithms, Computer Networking, Computer Architecture, Cryptography, Linux Lab and other computer science fundamental courses. I am ranked amongst the top 5% of our batch with a CGPA of 9.21 and have been awarded a 4-year Government Merit scholarship for my academic performance.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Research Interests and  Work
+===
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+My research interests lie in <b> Natural Language Processing, Information Extraction and Retrieval, Question-Answering Systems. </b> I have had prior research experience in NLP tasks like Keyphrase Generation, Text Summarisation, NLP tasks for Low-Resource languages.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+I interned at Indraprastha Institute of Information Technology’s Multimodal and Digital Media Analysis Lab under the guidance of Prof. Rajiv Ratn Shah in the summer of 2019. I worked on developing <b> Generative Adversarial Networks to generate keyphrases. </b> The main inspiration for the research project came from the problems faced by keyphrases generated by State-Of-The-Art Seq2Seq models like CatSeq,CopyRNN. These keyphrases suffered from exposure bias and lack of text diversity leading to keyphrases that were machine-like in appearance. GANs have been used in similar NLP tasks like summarization, paraphrasing and text generation to eliminate these problems. Thus, we decided to experiment with GANs for the task of keyphrase generation
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+We designed a GAN model consisting of a generator and a discriminator. While the generator structure was similar to CatSeq, we developed a novel 2-level hierarchical-attention based Discriminator specifically for this task to distinguish between real and false keyphrases. Our GAN model was better than state-of-the-art in generating abstractive keyphrases and comparable to SOTA in generating extractive keyphrases. The generated keyphrases were far more diverse than SOTA models and exhibited an $\alpha$-NDCG measure  with a 5\% increase. 
+A significant scope of the project involved collaborating with a large research group. We took guidance from  research scientists at Bloomberg NYC to get their application perspective.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Another area of research we worked on is the usage of <b> NLP to solve problems in  low-resource Indian languages. </b> Scarcity of data is a major limitation in such languages. Our research centered around overcoming this disadvantage in 4 Hindi classification datasets. To improve the amount of data available, we transformed the classification dataset into a Natural Language Inference Dataset. We took the input sentences as hypotheses and the target classes as inferences. We devised a novel two-step classification method that used these textual-entailment predictions from NLI Datasets for classification tasks in Hindi. Training textual-entailment models on non-English datasets could be difficult due to the paucity of data. We performed fine-tuning of pre-trained Multilingual models like mBERT and XLM-RobertA on our NLI datasets to boost model performance and overcome data scarcity. The two-step classification helped achieve better F1 scores than most conventional deep learning techniques. Working on a non-English NLP task enabled me to understand the significant challenges facing this domain and their solutions. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Industrial Internships
+===
+
+I did my internship at <b> Microsoft Development Center </b> in the Microsoft Dataverse Team in the summer of 2020. I worked in C# and .NET to implement a feature to store time of creation in a backend SQL server whenever the user created a new record. I developed and implemented unit and integration tests to verify my code changes. The internship has been a great learning experience and gave me professional exposure to the technology industry. The apprenticeship taught me collaborating with a large team on a huge codebase, articulating my ideas to senior managers, and developing software that met the industry standards.
+
+
+Extracurricular Activities
+===
+I had the  privilege to serve as the vice-president of Nakshatra-the college astronomy and mathematics club where I managed and coordinated day-to-day activities like publicity of events, weekly meetings,etc. I organized Kaggle-style ML competitions for our annual fest Ephemeris. I conducted weekly Special-Interest-Groups(SIGs) where I taught Deep and Machine Learning Concepts to junior students. I was  a member of both the Parliamentary Debating and Model United Nations team from NSIT. I attended many MUNs including Ramjas MUN, Jaypee MUN, etc. and was awarded the special mention at Jaypee MUN. I was also a member of the Organizing committee of NSITMUN. 
+
+
+Career
+===
+I am looking for software engineering jobs involving Deep or Machine Learning. Have a look at my resume here. 
+For more information, send me a mail or DM on LinkedIn.
 
 For more info
 ------
