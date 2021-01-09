@@ -39,11 +39,7 @@ Extracurricular Activities
 I had the  privilege to serve as the vice-president of Nakshatra-the college astronomy and mathematics club where I managed and coordinated day-to-day activities like publicity of events, weekly meetings,etc. I organized Kaggle-style ML competitions for our annual fest Ephemeris. I conducted weekly Special-Interest-Groups(SIGs) where I taught Deep and Machine Learning Concepts to junior students. I was  a member of both the Parliamentary Debating and Model United Nations team from NSIT. I attended many MUNs including Ramjas MUN, Jaypee MUN, etc. and was awarded the special mention at Jaypee MUN. I was also a member of the Organizing committee of NSITMUN. 
 
 
-Career
+Careers Opportunities
 ===
-I am looking for software engineering jobs involving Deep or Machine Learning. Have a look at my resume here. 
+I am looking for software engineering jobs involving Deep or Machine Learning in NLP. Have a look at my [resume](https://avinsit123.github.io/files/7046789_Avinash_Swaminathan_13395197_202012190941_Resume.pdf) here. 
 For more information, send me a mail or DM on LinkedIn.
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
