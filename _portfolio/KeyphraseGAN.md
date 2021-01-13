@@ -1,11 +1,11 @@
 ---
 title: "Keyphrase GAN"
-excerpt: ""
+excerpt: "In this project, we build a GAN architecture consisting of a generator and discriminator to generate keyphrases from scientific articles. This is the repo for our AAAI 2020 paper "Keyphrase Generation for Scientific Articles using GANs" "
 collection: portfolio
 ---
 
 # Keyphrase-GAN
-This repository contains the code for the paper <a href="https://aaai.org/ojs/index.php/AAAI/article/view/7238">Keyphrase Generation for Scientific Articles using GANs</a>.We have built a novel adversarial method to improve upon the generation of keyphrases using supervised approaches.Our Implementation is built on the starter code from <a href = "https://github.com/kenchan0226/keyphrase-generation-rl"> keyphrase-generation-rl </a> and <a href = "https://github.com/memray/seq2seq-keyphrase-pytorch"> seq2seq-keyphrase-pytorch </a> . Pls comment any issues in the issues section.
+This repository contains the code for the paper <a href="https://aaai.org/ojs/index.php/AAAI/article/view/7238"> Keyphrase Generation for Scientific Articles using GANs</a>. Link to the <a href="https://github.com/avinsit123/keyphrase-gan">repository</a>. We have built a novel adversarial method to improve upon the generation of keyphrases using supervised approaches.Our Implementation is built on the starter code from <a href = "https://github.com/kenchan0226/keyphrase-generation-rl"> keyphrase-generation-rl </a> and <a href = "https://github.com/memray/seq2seq-keyphrase-pytorch"> seq2seq-keyphrase-pytorch </a> . Pls comment any issues in the issues section.
 
 ![Alt text](/images/Discriminator.jpg?raw=true "Schematic of Proposed Discriminator")
 ## Dependencies 
