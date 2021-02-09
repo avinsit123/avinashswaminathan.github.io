@@ -16,4 +16,4 @@ My research interests are not just restricted to NLP. I am also interested in th
 I have completed my industrial internship at Microsoft India Development Center as a part of the Microsoft Dataverse Team in the summer of 2020. My project involved developing unit and integration tests for MS Dataverse. Recently, I am trying my hand at Open Source Contributions and Cooking :))
 I have consistently been ranked amongst top 5% of my batch and was awarded a 4-year merit scholarship for the same by NSIT. 
 
-I am looking for researching engineering jobs specializing Deep or Machine Learning in NLP. Have a look at my [resume](https://avinsit123.github.io/files/Avinash_Swaminathan_Research_Resume.pdf) here. For more information, send me a mail or DM on LinkedIn.
+I am looking for researching engineering jobs specializing Deep or Machine Learning in NLP. Have a look at my [resume](https://bit.ly/3aRUavf) here. For more information, send me a mail or DM on LinkedIn.
