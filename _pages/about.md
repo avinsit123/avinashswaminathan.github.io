@@ -22,3 +22,12 @@ When I am not working, I usually play krunker.io, read Dan Brown novels or brows
 I will be joining Atlassian coming Fall as a Software Development Engineer working on products for teams like Jira, Confluence, Bitbucket, etc.
 
 Have a look at my [resume](https://bit.ly/3aRUavf) here for more info on my projects and grades. DM me on [twitter](https://twitter.com/AvinashSwamina2) to have a chat about NLP research or software development. 
+
+## Life Updates
+
+- **5.7.2021:** Joined Atlassian as SDE
+- **6.2021:** Completed Undergrad at NSIT
+- **5.2019 ~ 3.2021:** Research Intern at MIDAS Lab
+- **18.5.2020 ~ 10.7.2020:** SDE Intern at Microsoft
+- **13.9.2020:** Paper on GANs for keyphrase generation accepted at EMNLP
+- **10.9.2020:** NLI Paper accepted at AACL-IJCNLP
