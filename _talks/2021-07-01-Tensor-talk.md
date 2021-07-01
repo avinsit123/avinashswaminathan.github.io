@@ -8,7 +8,21 @@ date: 2021-07-01
 location: "New Delhi, India"
 ---
 
-This is a presentation of our short Paper by " A Preliminary Exploration of GANs for keyphrase generation " presented at EMNLP 2020. The authors of this paper are :   Avinash Swaminathan, Raymond(Haimin) Zhang, Debanjan Mahata, Rakesh Gosangi, Rajiv Ratn Shah, Amanda Stent. This a joint collaboration between Bloomberg, NYC and MIDAS, IIITD. Our work was also presented at AAAI 2020. The slides were recorded over SlidesLive.
+Over a few series of weeks, I will be releasing a series of videos teaching various Pytorch concepts. Today we will be talking all about torch Tensors. The table of contents are as follows 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8zsm7yRAkeE/0.jpg)](https://slideslive.com/38939201/a-preliminary-exploration-of-gans-for-keyphrase-generation)
+<ul>
+    <li> What is Pytorch ? </li>
+    <li> Pytorch vs Tensorflow.  </li>
+    <li> Tensors  
+    <ol>
+    <li> Tensor creation and initialization </li>
+    <li> Tensor attributes and metadata </li>
+    <li>  Storing Tensors in Physical Memory </li>
+    <li> Pytorch-supported operations on a Tensor </li>
+    <li> Numpy Bridge  </li>
+    </ol>
+    </li>
+</ul>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8zsm7yRAkeE/0.jpg)](https://www.youtube.com/watch?v=8zsm7yRAkeE)
 
