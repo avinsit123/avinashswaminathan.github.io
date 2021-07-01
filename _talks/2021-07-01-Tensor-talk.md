@@ -24,5 +24,8 @@ Over a few series of weeks, I will be releasing a series of videos teaching vari
     </li>
 </ul>
 
+Github - https://github.com/avinsit123 
+Portfolio - https://avinsit123.github.io/ 
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/8zsm7yRAkeE/0.jpg)](https://www.youtube.com/watch?v=8zsm7yRAkeE)
 
